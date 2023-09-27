@@ -1,0 +1,14 @@
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\bin\Debug\net6.0\Staggs_Array.exe
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\bin\Debug\net6.0\Staggs_Array.deps.json
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\bin\Debug\net6.0\Staggs_Array.runtimeconfig.json
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\bin\Debug\net6.0\Staggs_Array.dll
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\bin\Debug\net6.0\Staggs_Array.pdb
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\obj\Debug\net6.0\Staggs_Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\obj\Debug\net6.0\Staggs_Array.AssemblyInfoInputs.cache
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\obj\Debug\net6.0\Staggs_Array.AssemblyInfo.cs
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\obj\Debug\net6.0\Staggs_Array.csproj.CoreCompileInputs.cache
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\obj\Debug\net6.0\Staggs_Array.dll
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\obj\Debug\net6.0\refint\Staggs_Array.dll
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\obj\Debug\net6.0\Staggs_Array.pdb
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\obj\Debug\net6.0\Staggs_Array.genruntimeconfig.cache
+F:\School\Csh\Staggs_Array_Solution\Staggs_Array\obj\Debug\net6.0\ref\Staggs_Array.dll
